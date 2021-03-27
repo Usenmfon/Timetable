@@ -9,7 +9,15 @@ th {
     text-align: left;
 }
 
+h2 {
+    background-color: rgb(51, 104, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
 h3 {
     background-color: yellow;
     text-align: center;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
