@@ -9,6 +9,17 @@ th {
     text-align: left;
 }
 
+.colone {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background: yellow;
+    font-weight: 700;
+}
+
+.days {
+    color: rgb(241, 162, 13);
+}
+
 h2 {
     color: rgb(51, 104, 172);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
