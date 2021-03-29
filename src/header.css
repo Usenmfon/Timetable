@@ -1,0 +1,13 @@
+#container {
+    background: rgb(35, 72, 128);
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+
+#text {
+    height: 50px;
+    width: 50px;
+    color: red;
+    text-align: right;
+}
